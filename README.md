@@ -19,6 +19,18 @@ Everything here is a personal learning project. The demos run on made-up data an
 - Built in n8n. Fake data. Nothing is sent: every message goes to a "would send" log.
 - Includes the [build story](https://github.com/Alikhosrawi/ai-automation-portfolio/blob/main/physio-appointment-reminders/build-story.md) with the real bug: replies were answered again on every check.
 
+**[Expat onboarding autopilot](https://github.com/Alikhosrawi/ai-automation-portfolio/tree/main/expat-onboarding-autopilot)**: document checklists, gentle chasing and weekly updates for a relocation agency's new clients.
+
+- Builds each client's document checklist from their permit type and nationality
+- Chases missing documents at most once every 7 days, so nobody gets nagged
+- Sends a weekly update to the client and a progress-only one to their HR contact
+
+**[Physio supplies reorder agent](https://github.com/Alikhosrawi/ai-automation-portfolio/tree/main/physio-supplies-reorder)**: the Friday supply order, prepared for the practice manager to approve.
+
+- Forecasts next week's usage from the bookings, prefills each supplier's cart and explains every change ("2 boxes instead of 1, because taping sessions doubled")
+- The manager approves, edits or removes each line before anything is final
+- Tested honestly: a pre-registered backtest on 41 weeks of synthetic history, with the losses reported next to the wins
+
 More demos will go into the [portfolio repo](https://github.com/Alikhosrawi/ai-automation-portfolio).
 
 ## One chore, gone
@@ -31,6 +43,7 @@ That's the name of the series. Each build takes one boring admin chore off a sma
 - **Claude**: prompts and agent logic for AI-powered tools
 - **Python**: small helper scripts
 - **Spreadsheets and CSV files**: where most small-business data actually lives
+- **Salesforce**: reports, dashboards, flows and data cleanup
 - **HubSpot**: CRM
 
 ## Writing
@@ -45,5 +58,5 @@ I post the build stories on [LinkedIn](https://www.linkedin.com/in/ali-khosravi-
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/ali-khosravi-5439a7116](https://www.linkedin.com/in/ali-khosravi-5439a7116)
+- LinkedIn: [linkedin.com/in/ali-khosravi-5439a7116](https://linkedin.com/in/ali-khosravi-5439a7116)
 - Email: [alikhosrawi@gmail.com](mailto:alikhosrawi@gmail.com)
