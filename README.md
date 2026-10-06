@@ -47,7 +47,7 @@ That's the name of the series: pick one repetitive admin chore, build the smalle
 ## Tools I use
 
 - **n8n**: workflows you can see as a picture on a canvas
-- **Claude**: prompts and agent logic for AI-powered tools
+- **AI**: prompts and agent logic for AI-powered steps
 - **Python**: small helper scripts
 - **Spreadsheets and CSV files**: where most small-business data actually lives
 - **Salesforce**: reports, dashboards, flows and data cleanup
