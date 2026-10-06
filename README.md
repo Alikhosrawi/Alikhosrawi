@@ -1,6 +1,6 @@
 # Hi, I'm Ali
 
-I live in Hamburg and I build small automations that take one boring admin chore off a small business: the reminders, follow-ups and copy-paste jobs that quietly eat an afternoon. I build them with **n8n**, with **AI as my co-pilot**, and I write each one up as a short build story: the chore, what I built, what broke, and how I fixed it.
+I live in Hamburg and work in operations. I build small, real workflows with **n8n**, with **AI as my co-pilot**: reminders, follow-ups and the copy-paste jobs that quietly eat an afternoon. Each one comes with a short build story: the chore, what I built, what broke, and how I fixed it.
 
 I trained as a biomedical engineer, and my background is health technology and operations. That's where the habit comes from: when a process keeps wasting someone's time, I want to build the fix.
 
@@ -29,13 +29,13 @@ Everything here is a personal learning project. The demos run on made-up data an
 
 - Forecasts next week's usage from the bookings, prefills each supplier's cart and explains every change ("2 boxes instead of 1, because taping sessions doubled")
 - The manager approves, edits or removes each line before anything is final
-- Tested honestly: a pre-registered backtest on 41 weeks of synthetic history, with the losses reported next to the wins
+- Tested honestly: a pre-registered backtest on 50 weeks of synthetic history (41 scored), with the losses reported next to the wins
 
 More demos will go into the [portfolio repo](https://github.com/Alikhosrawi/ai-automation-portfolio).
 
 ## One chore, gone
 
-That's the name of the series. Each build takes one boring admin chore off a small business with a simple automation. No big platform, just one fix for one job, explained step by step.
+That's the name of the series: pick one repetitive admin chore, build the smallest workflow that removes it, and write up what broke along the way. No big platform, just one fix for one job, explained step by step.
 
 ## Tools I use
 
@@ -58,5 +58,5 @@ I post the build stories on [LinkedIn](https://www.linkedin.com/in/ali-khosravi-
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/ali-khosravi-5439a7116](https://linkedin.com/in/ali-khosravi-5439a7116)
+- LinkedIn: [linkedin.com/in/ali-khosravi-5439a7116](https://www.linkedin.com/in/ali-khosravi-5439a7116)
 - Email: [alikhosrawi@gmail.com](mailto:alikhosrawi@gmail.com)
