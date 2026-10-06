@@ -16,7 +16,7 @@ Everything here is a personal learning project. The demos run on made-up data an
 - Finds duplicate deals (exact copies by rule; messy ones like "Sandtor Spediiton GmbH" judged by AI), deals with no activity for 60+ days, and deals with no amount, close date or owner
 - Shows the Q4 forecast before and after cleaning (€2.13M → €1.78M on the demo data), and writes one to-do message per rep
 - AI writes the Monday note, and every number in it is checked against the computed facts before it's used
-- Tested honestly: problems planted on purpose, rules written down before the test ran. It caught all 18 duplicates (the 10 messy ones judged by AI) and fell for none of the 6 look-alike traps; a rules-only version flagged 13 wrong pairs. The cleaned forecast still came out 7 % low, and the [README](https://github.com/Alikhosrawi/ai-automation-portfolio/tree/main/crm-pipeline-hygiene) says why.
+- Tested honestly: problems planted on purpose, rules written down before the test ran. In the main run it caught all 18 duplicates (the 10 messy ones judged by AI) and fell for none of the 6 look-alike traps; a rules-only version flagged 13 wrong pairs. The limits are in the [README](https://github.com/Alikhosrawi/ai-automation-portfolio/tree/main/crm-pipeline-hygiene): the cleaned forecast still came out 7 % low, and on 20 other test sets 17 of 200 messy duplicates never reached the AI.
 
 **[Physio appointment reminders](https://github.com/Alikhosrawi/ai-automation-portfolio/tree/main/physio-appointment-reminders)**: reminders, replies and no-show follow-ups for a small physio practice.
 
