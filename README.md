@@ -1,6 +1,8 @@
 # Hi, I'm Ali
 
-I live in Hamburg and work in operations. I build small, real workflows with **n8n**, with **AI as my co-pilot**: reminders, follow-ups, CRM clean-up and the copy-paste jobs that quietly eat an afternoon. Each one comes with a short build story: the chore, what I built, what broke, and how I fixed it.
+I'm Ali, an operator who builds the fix himself with AI. Biomedical engineer, ex-MedTech, now running operations in Hamburg.
+
+I build CRM, forecasting and automation tools with SQL, n8n and Claude, and I write down what broke along the way.
 
 I trained as a biomedical engineer, and my background is health technology and operations. That's where the habit comes from: when a process keeps wasting someone's time, I want to build the fix.
 
@@ -60,7 +62,7 @@ I post the build stories on [LinkedIn](https://www.linkedin.com/in/ali-khosravi-
 ## Background
 
 - **Biomedical engineering** (MSc): health technology, data and how systems behave in real life
-- **Operations** at a multi-site food company in Hamburg: processes, reporting, customer accounts and the tools that hold them together
+- **Operations**, Hamburg: processes, reporting, customer accounts and the tools that hold them together
 - **What I bring to a build:** I start from the boring chore people actually do, keep the fix small, and test it on fake data before it touches anything real
 
 ## Contact
